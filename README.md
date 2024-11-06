@@ -7,7 +7,7 @@
 # Mockup Lirikku
 ![image](https://github.com/user-attachments/assets/71dd5ef2-5c7e-4053-88c7-31b12fceec12)
 # DESIGN UI Lirikku
-![image](https://github.com/user-attachments/assets/d9b14a6c-74d3-4d60-84ba-359350aa8db5)
+![Cuplikan layar 2024-11-06 215930](https://github.com/user-attachments/assets/32d3790d-75c8-4db4-97b9-554df9c40c67)
 ![image](https://github.com/user-attachments/assets/047e5c46-34c7-4905-b69a-5c7bf90ddbdf)
 ![image](https://github.com/user-attachments/assets/c6cdb73a-2a28-4e44-9770-0f21de268d23)
 ![image](https://github.com/user-attachments/assets/98daf066-9e91-4bf0-95c3-e2ee07495cbc)
