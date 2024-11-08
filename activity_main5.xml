@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/alobaster"
+    android:orientation="vertical"
+    tools:context=".MainActivity4">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/mode_offline"/>
+
+    <Button
+        android:id="@+id/bt_lirik"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/angels_like_you"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/birds_of_feather"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/swim"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/tampar"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+</LinearLayout>

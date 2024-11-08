@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/alobaster"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/lirik"
+        android:contentDescription="@string/app_name"
+        tools:ignore="ImageContrastCheck" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="380dp"
+        android:layout_height="650dp"
+        android:layout_gravity="center"
+        android:background="@color/white"
+        app:cardCornerRadius="20dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="150dp"
+                android:layout_height="30dp"
+                android:fontFamily="sans-serif-black"
+                android:textColor="@color/black"
+                android:text="@string/angels_like_you"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.047" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="145dp"
+                android:layout_height="30dp"
+                android:text="@string/chord_c_g_dm_f_4x"
+                android:textColor="#8D6E63"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.068"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.122" />
+
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="130dp"
+                android:textColor="@color/black"
+                android:text="@string/mmm_mmm_mmm_flowers_in_hand_waiting_for_me_every_word_in_poetry_won_t_call_me_by_name_only_baby_the_more_that_you_give_the_less_that_i_need_everyone_says_i_look_happy_when_it_feels_right"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.088"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.203" />
+
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="175dp"
+                android:text="@string/i_know_that_you_re_wrong_for_me_gonna_wish_we_never_met_on_the_day_i_leave_i_brought_you_down_to_your_knees_cause_they_say_that_misery_loves_company_it_s_not_your_fault_i_ruin_everything_and_it_s_not_your_fault_i_can_t_be_what_you_need_baby_angels_like_you_can_t_fly_down_hell_with_me"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.088"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.496" />
+
+            <TextView
+                android:layout_width="230dp"
+                android:layout_height="20dp"
+                android:text="@string/i_m_everything_they_said_i_would_be"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.106"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.652" />
+
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="20dp"
+                android:text="@string/la_la_la"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.088"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.684" />
+
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="20dp"
+                android:text="@string/i_m_everything_they_said_i_would"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.088"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.715" />
+
+            <TextView
+                android:layout_width="204dp"
+                android:layout_height="147dp"
+                android:text="@string/i_ll_put_you_down_slow_love_you_goodbye_before_you_let_go_just_one_more_time_take_off_your_clotes_pretend_that_it_s_fine_a_little_more_hurt_won_t_kill_you_tonight_mother_says_you_don_t_look_happy_close_your_eyes"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.09"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.968" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
