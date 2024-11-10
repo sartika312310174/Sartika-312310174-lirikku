@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">lirikku</string>
+    <string name="judul_lagu">Angels Like You</string>
+    <string name="chord">Chord: C-G-Dm-F (4x)</string>
+    <string name="intro">Mmm, mmm, mmm Flowers in hand, waiting for me Every word in poetry, Won\'t call me by name, only baby The more that you give, the less that i need. Everyone says I look happy, When it feels right.</string>
+    <string name="reff">I know that you\'re wrong for me Gonna wish we never met on the day i leave. I brought you down to your knees, \'Cause they say that misery loves company It`s not your fault I ruin everything, and it`s not your fault i can`t be what you need. Baby angels like you can`t fly down hell with me.</string>
+    <string name="todo">TODO</string>
+    <string name="chase_atlantic">Chase Atlantic</string>
+    <string name="info">Chase Atlantic adalah grup RNB Australia dan Trio produksi dari Cairns, Queensland yang dibentuk pada tahun 2014. Grup ini terdiri dari tiga anggota Christian Antony, Clinton Cave, dan Mitchel Cave.</string>
+    <string name="album">ALBUM</string>
+    <string name="album1">CHASE ATLANTIC</string>
+    <string name="album2">LOST IN HEAVEN</string>
+    <string name="todo2">TODO</string>
+    <string name="lirik4">I`m everything they said i would be</string>
+    <string name="lirik5">La-la-la~</string>
+    <string name="lirik6">I`m everything they said i would be</string>
+    <string name="lirik7">I`ll put you down slow, love you goodbye Before you let go, just one more time Take off your clotes, pretend that it`s fine A little more hurt won`t kill you Tonight, mother says, `you don`t look happy. Close your eyes</string>
+    <string name="desc">lirikku</string>
+
+</resources>
