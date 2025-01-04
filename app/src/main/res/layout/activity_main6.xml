@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/alobaster"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/band_bar"/>
+
+
+    <Button
+        android:id="@+id/bt_ag"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/ariana_grande"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+
+    <Button
+        android:id="@+id/bt_be"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/billie_eilish"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+
+    <Button
+        android:id="@+id/bt_ca"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/chase_atlantic"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+
+    <Button
+        android:id="@+id/bt_dw"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/dewa19"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+
+    <Button
+        android:id="@+id/bt_ed"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/ed_sheeran"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+
+    <Button
+        android:id="@+id/bt_fe"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/fiersa_besari"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+
+    <Button
+        android:id="@+id/bt_gf"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/glenn_fredly"
+        android:contentDescription="@string/bottom_sheet_behavior" />
+
+
+</LinearLayout>

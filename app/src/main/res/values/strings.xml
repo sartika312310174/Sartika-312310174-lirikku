@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">lirikku</string>
+    <string name="judul_lagu">Angels Like You</string>
+    <string name="chord">Chord: C-G-Dm-F (4x)</string>
+    <string name="intro">Mmm, mmm, mmm Flowers in hand, waiting for me Every word in poetry, Won\'t call me by name, only baby The more that you give, the less that i need. Everyone says I look happy, When it feels right.</string>
+    <string name="reff">I know that you\'re wrong for me Gonna wish we never met on the day i leave. I brought you down to your knees, \'Cause they say that misery loves company It`s not your fault I ruin everything, and it`s not your fault i can`t be what you need. Baby angels like you can`t fly down hell with me.</string>
+    <string name="todo">TODO</string>
+    <string name="chase_atlantic">Chase Atlantic</string>
+    <string name="info">Chase Atlantic adalah grup RNB Australia dan Trio produksi dari Cairns, Queensland yang dibentuk pada tahun 2014. Grup ini terdiri dari tiga anggota Christian Antony, Clinton Cave, dan Mitchel Cave.</string>
+    <string name="album">ALBUM</string>
+    <string name="album1">CHASE ATLANTIC</string>
+    <string name="album2">LOST IN HEAVEN</string>
+    <string name="todo2">TODO</string>
+    <string name="lirik4">I`m everything they said i would be</string>
+    <string name="lirik5">La-la-la~</string>
+    <string name="lirik6">I`m everything they said i would be</string>
+    <string name="lirik7">I`ll put you down slow, love you goodbye Before you let go, just one more time Take off your clotes, pretend that it`s fine A little more hurt won`t kill you Tonight, mother says, `you don`t look happy. Close your eyes</string>
+    <string name="desc">lirikku</string>
+    <string name="logo">logo</string>
+
+    <string name="desc2">ariana</string>
+    <string name="ariana_grande">ARIANA GRANDE</string>
+    <string name="info2">Ariana Grande-Butera (lahir 26 Juni 1993) adalah seorang penyanyi, penulis lagu, dan pemeran asal Amerika Serikat, Dia memulai kariernya pada tahun 2008 di drama musikal Broadway berjudul 13, sebelum memerankan Cat Valentine di serial televisi Nickelodeon Victorious (2010–2013) dan di spinoff Sam dan Cat (2013–2014).</string>
+    <string name="nama_album">ETERNAL SUNSHINE</string>
+    <string name="nama_album2">DANGEROUS WOMAN</string>
+
+    <string name="desc3">billie</string>
+    <string name="nama_artis">BILLIE EILISH</string>
+    <string name="info3">Billie Eilish Pirate Baird O`Connell lahir pada tanggal 18 Desember 2001) adalah seorang penyanyi dan penulis lagu asal Amerika Serikat.</string>
+    <string name="nama_album3">HIT ME HARD AND SOFT</string>
+    <string name="nama_album4">HAPPIER THAN EVER</string>
+
+    <string name="desc4">dewa19</string>
+    <string name="nama_artis4">DEWA 19</string>
+    <string name="info4">Dewa 19, atau hanya disebut Dewa, adalah sebuah grup musik rok Indonesia yang dibentuk pada 26 Agustus 1986 di Surabaya, Indonesia. Grup ini yang dimotori oleh dua orang Ahmad Dhani dan Andra Junaidi.</string>
+    <string name="nama_album5">DEWA 19</string>
+    <string name="nama_album6">LASKAR CINTA</string>
+
+    <string name="desc5">edsheeran</string>
+    <string name="nama_artis5">ED SHEERAN</string>
+    <string name="info5">Edward Christopher Sheeran lahir 17 Februari 1991) adalah seorang penyanyi, penulis lagu, gitaris, produser rekaman, dan aktor berkebangsaan Inggris Raya.</string>
+    <string name="nama_album7">EQUALS</string>
+    <string name="nama_album8">DIVIDE</string>
+
+    <string name="desc6">fiersabesari</string>
+    <string name="nama_Artis6">FIERSA BESARI</string>
+    <string name="info6">Fiersa Besari adalah seorang musisi, penulis, dan pemengaruh berkebangsaan Indonesia. Fiersa pernah terlibat sebagai salah satu pendiri Komunitas Pecandu Buku. Fiersa juga aktif sebagai personalia YouTube.</string>
+    <string name="nama_album9">11:11</string>
+    <string name="nama_album10">TEMPAT AKU PULANG</string>
+
+    <string name="desc7">glennfredly</string>
+    <string name="nama_artis7">GLENN FREDLY</string>
+    <string name="info7">Glenn Fredly Deviano Latuihamallo adalah seorang penyanyi, penulis lagu, produser, dan aktor berkebangsaan Indonesia. Ia merupakan mantan vokalis dari Funk Section, Glenn juga merupakan mantan anggota grup vokal pria Trio Lestari dan grup vokal pria Berlima.</string>
+    <string name="nama_album11">GLENN</string>
+    <string name="nama_album12">KEMBALI</string>
+</resources>
